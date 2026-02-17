@@ -77,7 +77,7 @@ Full API documentation is available at [fallenangelsystems.com/docs](https://fal
 
 - **Website:** [fallenangelsystems.com](https://fallenangelsystems.com)
 - **Blog:** [fallenangelsystems.com/blog](https://fallenangelsystems.com/blog)
-- **API Status:** [status.fallenangelsystems.com](https://status.fallenangelsystems.com)
+- **Live Demo:** [fallenangelsystems.com/demo](https://fallenangelsystems.com/demo)
 
 ## About
 
